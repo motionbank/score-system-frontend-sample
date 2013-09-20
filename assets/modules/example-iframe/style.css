@@ -1,0 +1,13 @@
+body {
+	overflow: hidden;
+}
+
+form input {
+	height: 25px;
+}
+
+form textarea {
+	margin-top: 5px;
+	height: 80%;
+	width: 100%;
+}
