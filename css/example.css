@@ -1,1 +1,8 @@
-/* overriding the base css from here */
+/* overriding the base css from here, see:
+app-base/css/... */
+
+/* specific cells / sets can be styled through 
+their classes: ".set-<set-id here>" or ".cell-<cell-id here>"
+for example for set with ID 1:
+.set-1 {
+} */
